@@ -14,7 +14,7 @@ A recommendation engine can be used for recommending other products besides book
 
 A recommendation system is usually built using 3 techniques which are **content-based filtering, collaborative filtering, and a combination of both**.
 
-                                                      * <b>Content-based filtering<\b>: 
+                                                      * <b>Content-based filtering</b>: 
 The algorithm recommends a product that is similar to those which used as watched. In simple words, In this algorithm, we try to find finding item look alike. For example, a person likes to watch Sachin Tendulkar shots, so he may like watching Ricky Ponting shots too because the two videos have similar tags and similar categories.
 Only it looks similar between the content and does not focus more on the person who is watching this. Only it recommends the product which has the highest score based on past preferences.
 
